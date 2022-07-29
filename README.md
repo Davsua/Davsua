@@ -1,9 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Davsua/Davsua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm David Suarez (Davsua), nice to meet you.
 
-Here are some ideas to get you started:
+💥im from Medellin, Colombia Full Stack software development and my vision is enfocated to change the world and share my knowleadings. let's go to do it together!😎
+
+🤓knowledges:
+
+🟡 JavaScript
+🔵 React JS
+🟢 Node JS
+🔴 HTML5
+🔹 CSS3
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
