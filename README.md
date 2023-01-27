@@ -14,6 +14,6 @@ i'm David Suarez (Davsua), nice to meet you.
 🔴 JAVA
 
 - 🔭 I’m currently working on Web scrapping with JavaScript vanila and personal projects with React
-- :technologist: I’m currently learning about Redux
+- :technologist: I’m currently learning about NextJS
 
 - :smile: Fun fact: I was a veterinarian :syringe::horse:
