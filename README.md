@@ -11,7 +11,7 @@ i'm David Suarez (Davsua), nice to meet you.
 🟢 Node JS
 🔴 HTML5
 🔹 CSS3
-🔴 JAVA
+ :first_quarter_moon: NextJS (in process)
 
 - 🔭 I’m currently working on Web scrapping with JavaScript vanila and personal projects with React
 - :technologist: I’m currently learning about NextJS
